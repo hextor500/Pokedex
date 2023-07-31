@@ -1,6 +1,6 @@
 // Constantes
 const baseURL = 'https://github.com/hextor500/Pokedex/blob/main/Pokemons.json';
-const pokemonListig = document.getElementById('pokemon-list');
+const pokemonList = document.getElementById('pokemon-list');
 const modal = document.getElementById('modal');
 const modalContent = document.getElementById('modal-content');
 const modalClose = document.getElementById('modal-close');
