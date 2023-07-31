@@ -1,6 +1,6 @@
 // Constantes
 const baseURL = 'Pokemons.json';
-const pokemonList = document.getElementById('pokemon-list');
+const pokemonListig = document.getElementById('pokemon-list');
 const modal = document.getElementById('modal');
 const modalContent = document.getElementById('modal-content');
 const modalClose = document.getElementById('modal-close');
